@@ -13,7 +13,7 @@ A Python script that converts WhatsApp text chat exports into structured JSON fo
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/whatsapp-chat-json-converter.git
+   git clone https://github.com/Eshab01/whatsapp-chat-json-converter.git
    ```
 2. Navigate to the directory:
    ```bash
